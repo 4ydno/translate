@@ -2,8 +2,8 @@ export default {
   "commons": {
     "approved": "Одобрен",
     "trend": "Тенденция",
-    "like": "като",
-    "share": "Дял",
+    "like": "Харесване",
+    "share": "Споделяне",
     "comment": "Коментирайте",
     "view_insight": "Преглед на прозрения",
     "trial_mode": "Пробен режим",
@@ -13,7 +13,7 @@ export default {
     "pin": "Закачете отгоре",
     "private": "Лична стая",
     "text": "Текст",
-    "voice": "Глас",
+    "voice": "Аудио",
     "video": "Видео",
     "link": "Връзка",
     "image": "Изображение",
@@ -54,7 +54,7 @@ export default {
     "you_are_moderator": "Вие сте модератор",
     "invite_friend": "Покани моя приятел",
     "nominate_friend": "Номинирайте моя приятел",
-    "request_nominate": "Помолете някой да ви номинира!",
+    "request_nominate": "Помолете някой да Ви номинира!",
     "show_deleted_posts": "Показване на изтритите публикации",
     "moderators": "Модератори",
     "analytics": "Анализ",
@@ -80,8 +80,8 @@ export default {
     "MONTH": "Един месец безплатно"
   },
   "post_reaction": {
-    "LIKE": "любов",
-    "SMILE": "Щастлив",
+    "LIKE": "Харесване",
+    "SMILE": "Усмивка",
     "CLAP": "Пляскане",
     "IDEA": "Идея",
     "DISAGREE": "Не съм съгласен"
