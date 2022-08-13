@@ -21,7 +21,7 @@ export default {
             }
           },
           {
-            "title": "Помогне",
+            "title": "Помощ",
             "to": {
               "name": "Helps"
             }
@@ -33,7 +33,7 @@ export default {
             }
           },
           {
-            "title": "FAQ",
+            "title": "ЧЗВ",
             "to": {
               "name": "FAQ"
             }
@@ -201,11 +201,11 @@ export default {
     "boost_mode": "Увеличете",
     "normal_mode": "Нормално",
     "boost_message": "Лоша интернет връзка и имате нужда от усилване?",
-    "dark": "Тъмно",
-    "light": "Светлина",
+    "dark": "Тъмна тема",
+    "light": "Светла тема",
     "theme_message": "Активирайте интелигентно инвертиране",
     "preferences": "Предпочитания",
-    "select_language": "Изберете вашия език",
+    "select_language": "Изберете Вашия език",
     "preferences_dialog": {
       "title": "Потребителски предпочитания"
     },
